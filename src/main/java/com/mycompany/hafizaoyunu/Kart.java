@@ -8,6 +8,7 @@ public class Kart {
     public Kart(char deger) {
         this.deger = deger;
     }
+    
 
     public char getDeger() {
         return deger;
