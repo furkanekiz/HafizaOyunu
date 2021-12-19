@@ -8,7 +8,6 @@ public class Kart {
     public Kart(char deger) {
         this.deger = deger;
     }
-    
 
     public char getDeger() {
         return deger;
@@ -25,7 +24,5 @@ public class Kart {
     public void setTahmin(boolean tahmin) {
         this.tahmin = tahmin;
     }
-    
-    
-    
+
 }
