@@ -9,6 +9,10 @@ public class Kart {
         this.deger = deger;
     }
 
+    public void deneme() {
+
+    }
+
     public char getDeger() {
         return deger;
     }
