@@ -12,7 +12,7 @@ public class Kart {
     public void deneme() {
 
     }
-
+    
     public char getDeger() {
         return deger;
     }
